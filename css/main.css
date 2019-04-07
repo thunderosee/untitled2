@@ -1,0 +1,45 @@
+.aboutus{
+    margin: 10% 10% 3% 15%;
+}
+.firstperson, .secondperson, .thirdperson{
+    background-color: #eeeeee;
+    width: 25%;
+    border-radius: 5%;
+    border: 1px solid #e0e0e0;
+    padding: 3% 0 0 0;
+    position: relative;
+    display: inline-block;
+    margin: 0 3% 0 3%;
+}
+
+.firstphoto, .secondphoto, .thirdphoto{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 30%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    font-size: 115%;
+}
+h1 {
+    text-align: center;
+    font-size: 200%;
+    margin: 5% 0 0 0;
+}
+.personalink{
+    width: 10%;
+    border: none;
+}
+a{
+    text-align: center;
+    padding-left: 30%;
+    font-size: 120%;
+    text-decoration: none;
+}
+a:hover,a:visited {
+    text-decoration: none;
+    color: black;
+}
